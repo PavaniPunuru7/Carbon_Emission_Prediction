@@ -16,7 +16,7 @@ An interactive web application built with **Streamlit** to visualize carbon diox
 
 ## 🚀 Live Demo
 
-👉 (https://your-deployed-url.streamlit.app)
+👉 https://carbonemissionprediction-pzp5y9mnjtrvxfjuu9gnmo.streamlit.app/
 
 
 ## 🖼️ Screenshot
