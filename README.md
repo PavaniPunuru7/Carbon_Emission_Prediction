@@ -16,11 +16,8 @@ An interactive web application built with **Streamlit** to visualize carbon diox
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://your-deployed-url.streamlit.app)
+👉 (https://your-deployed-url.streamlit.app)
 
-> ⚠️ Replace the above link with your Streamlit Cloud URL after deployment.
-
----
 
 ## 🖼️ Screenshot
 
