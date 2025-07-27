@@ -19,12 +19,6 @@ An interactive web application built with **Streamlit** to visualize carbon diox
 👉 https://carbonemissionprediction-pzp5y9mnjtrvxfjuu9gnmo.streamlit.app/
 
 
-## 🖼️ Screenshot
-
-![CO₂ Emissions Graph](screenshot.png)
-
----
-
 ## 📁 Dataset Format
 
 The Excel file should:
